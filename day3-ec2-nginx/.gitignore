@@ -1,0 +1,15 @@
+# AWS private keys
+*.pem
+*.key
+
+# AWS credentials
+.aws/
+.env
+.env.*
+
+# Local files
+*.log
+.DS_Store
+
+# Temporary files
+*.tmp
